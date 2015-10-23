@@ -1,6 +1,6 @@
 # mongoose test
 
->create dir
+>create dir myapp
 ```
 npm init
 npm install --save express
@@ -24,8 +24,10 @@ var server = app.listen(3000, function () {
 
   console.log('Example app listening at http://%s:%s', host, port);
 });
+
 ```
 >node server.js in terminal
 ```
 npm install nodemon
 ```
+>create dir routes and create file api.js in my add
