@@ -32,3 +32,9 @@ npm install nodemon
 ```
 -------------------------------------------
 **create dir routes and create file api.js in my add**
+```
+npm install mongodb
+npm install mongoose
+mongod --dbpath ./data
+sudo apt-get install libkrb5-dev
+```
