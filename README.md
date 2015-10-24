@@ -21,4 +21,5 @@ npm install mongodb
 npm install mongoose
 mongod --dbpath ./data
 sudo apt-get install libkrb5-dev
+sudo apt-get install mongodb-server
 ```
